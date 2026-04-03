@@ -1,6 +1,6 @@
 var youtubePlayList = "PLtVfX3-hK60MkgzexNOD1XkzRyIYCXfI3"; // YouTube Playlist ID
-let otherwebsiteurl = "https://draculusx.github.io/index.html"; // Small Portable Screen
-var websiteurl = "https://draculusx.github.io/index.html"; // Big Screen
+let otherwebsiteurl = "https://firerat666.github.io/GothNight/index.html"; // Small Portable Screen
+var websiteurl = "https://firerat666.github.io/GothNight/index.html"; // Big Screen
 
 async function somerandomStartActions() {
 	setTimeout(() => {
@@ -218,12 +218,12 @@ async function enableKaraokePlayer() {
 				// "spatial": "false",
 				"spatial-min-distance": "1",
 				"spatial-max-distance": "500",
-				"data-playlist-icon-url": "https://draculusx.github.io/Images/YT/Playlist.png",
-				"data-vol-up-icon-url": "https://draculusx.github.io/Images/YT/VolUp.png",
-				"data-vol-down-icon-url": "https://draculusx.github.io/Images/YT/VolDown.png",
-				"data-mute-icon-url": "https://draculusx.github.io/Images/YT/Mute.png",
-				"data-skip-forward-icon-url": "https://draculusx.github.io/Images/YT/Forward.png",
-				"data-skip-backward-icon-url": "https://draculusx.github.io/Images/YT/Back.png",
+				"data-playlist-icon-url": "https://firerat666.github.io/GothNight/Images/YT/Playlist.png",
+				"data-vol-up-icon-url": "https://firerat666.github.io/GothNight/Images/YT/VolUp.png",
+				"data-vol-down-icon-url": "https://firerat666.github.io/GothNight/Images/YT/VolDown.png",
+				"data-mute-icon-url": "https://firerat666.github.io/GothNight/Images/YT/Mute.png",
+				"data-skip-forward-icon-url": "https://firerat666.github.io/GothNight/Images/YT/Forward.png",
+				"data-skip-backward-icon-url": "https://firerat666.github.io/GothNight/Images/YT/Back.png",
 				"playlist": "",
 				"announce": "false",
 				"announce-events": "false",
@@ -321,7 +321,7 @@ function enableThePortableFireScreen(announce = true) {
     createPoster(
       'Test01', // Name of the Button
       new BS.Vector3(2.75,1.65,2), // Position of the Button
-      'https://draculusx.github.io/Images/WGD.png', // Button Image
+      'https://firerat666.github.io/GothNight/Images/WGD.png', // Button Image
       'https://en.wikipedia.org/wiki/World_Goth_Day', // Link to the Poster
       new BS.Vector3(0,0,0), // Local Rotation
       new BS.Vector3(.6,.6,.6), // Local Scale
@@ -332,7 +332,7 @@ function enableThePortableFireScreen(announce = true) {
     createPoster(
       'Test02', // Name of the Button
       new BS.Vector3(-5.49,2,-4.1), // Position of the Button
-      'https://draculusx.github.io/Images/WGD.png', // Button Image
+      'https://firerat666.github.io/GothNight/Images/WGD.png', // Button Image
       'https://en.wikipedia.org/wiki/World_Goth_Day', // Link to the Poster
       new BS.Vector3(0,-90,0), // Local Rotation
       new BS.Vector3(.6,.6,.6), // Local Scale
@@ -343,8 +343,8 @@ function enableThePortableFireScreen(announce = true) {
     createPoster(
       'Test02', // Name of the Button
       new BS.Vector3(-9.3,2.8,-2.52), // Position of the Button
-      'https://draculusx.github.io/Images/RazorCrop.png', // Button Image
-      'https://draculusx.github.io/index.html', // Link to the Poster
+      'https://firerat666.github.io/GothNight/Images/RazorCrop.png', // Button Image
+      'https://firerat666.github.io/GothNight/index.html', // Link to the Poster
       new BS.Vector3(0,-180,0), // Local Rotation
       new BS.Vector3(.6,.6,.6), // Local Scale
       1.4, // Width
